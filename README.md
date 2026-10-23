@@ -57,7 +57,7 @@ Websites
  - [multiplayerchess.com](http://multiplayerchess.com) - A simple single page chess playing application facilitating the play of chess.
  - [lichess.org](http://en.lichess.org/) - One of the most mature platforms for playing chess on the internet. It is open source too. It is equipped with daily puzzles and an TV to spectate other matches.
  - [chess24.com](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
- - [chessbase.com](http://play.chessbase.com/js/apps/playchess/) - Lucrative, single page application for playing chess.
+ - [chessbase.com](http://play.chessbase.com/js/apps/playchess/) - Lucrative, single page application for playing chess. 
  - [chess.com](http://www.chess.com/) - Learn and play chess with over 5 million other users.
  - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (Works similar to Khan Academy.)
  - [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
@@ -79,12 +79,12 @@ Board Notations
 *Notations are a way of expressing the properties of the board in textual format. [Tutorial on Chess Notations](http://chess.eusa.ed.ac.uk/Chess/Rules/notation.html).*
 
  - [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) - A FEN "record" defines a particular game position, all in one text line and using only the ASCII character set.
- - [PNG](http://www6.chessclub.com/help/PGN-spec) - PGN is structured "for easy reading and writing by human users and for easy parsing and generation by computer programs."
+ - [PNG](http://www6.chessclub.com/help/PGN-spec) - PGN is structured "for easy reading and writing by human users and for easy parsing and generation by computer programs." 
  - Other Notations
-    - [Algebraic Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
-    - [ICCF numeric notation](https://en.wikipedia.org/wiki/ICCF_numeric_notation) - Official chess game notation for all International Correspondence Chess Federation games.
-    - [Smith Chess Notation](http://www6.chessclub.com/chessviewer/smith.html)
-    - [Descriptive Notation](https://en.wikipedia.org/wiki/Descriptive_notation)
+    - [Algebraic Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) 
+    - [ICCF numeric notation](https://en.wikipedia.org/wiki/ICCF_numeric_notation) - Official chess game notation for all International Correspondence Chess Federation games. 
+    - [Smith Chess Notation](http://www6.chessclub.com/chessviewer/smith.html) 
+    - [Descriptive Notation](https://en.wikipedia.org/wiki/Descriptive_notation) 
 
 Pieces
 ---
@@ -99,10 +99,10 @@ Pieces
 Talks
 ---
 *Talks on chess.*
-
+ 
  - [Understanding Chess Mastery](https://www.youtube.com/watch?v=fPopQaY7Og4) -Talk on understanding chess mastery by Jennifer Shahade.
  - [How Chess Can Revolutionize Learning](https://www.youtube.com/watch?v=A3yDvM8aplY) - Talk on how chess can revolutionize learning by Cody Pomeranz.
  - [Working backward to solve problems](https://www.youtube.com/watch?v=v34NqCbAA1c) - Talk on working backward to solve problems by Maurice Ashley
  - [Chess Life](https://www.youtube.com/watch?v=lgCSo1Txw3c)
- - [Why Chess is Boring](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on why chess is boring by Bobby Fischer
+ - [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on why chess is boring by Bobby Fischer
  - [Chess Peeps](https://www.youtube.com/watch?v=p027ysBt0_M)
